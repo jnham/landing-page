@@ -24,6 +24,7 @@ body {
 .navback {
     background-color: #1f2937;
     width: 100%;
+    height: 51px;
     display: flex;
     justify-content: center;
     position: fixed;
